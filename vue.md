@@ -3,7 +3,7 @@
 ###1.安装npm镜像  
 ####npm install -g cnpm --registry=https://registry.npm.taobao.org 
 <br>
-###2.全局安装 vue-cli  
+###2.全局安装 vue-cli  （mac不要忘记加sudo获得权限，否则报错）
 #### sudo cnpm install -g vue-cl
 <br>
 ###3.创建一个基于 webpack 模板的新项目 
