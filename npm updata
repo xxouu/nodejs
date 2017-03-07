@@ -4,6 +4,6 @@ sudo npm install -g cnpm --registry=https://registry.npm.taobao.org
 2.升级nodejs版本
 
 2.1安装n模块：
-npm install -g n
+sudo npm install -g n
 2.2升级node.js到最新稳定版
-n stable
+sudo n stable
